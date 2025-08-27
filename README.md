@@ -8,4 +8,8 @@ Este projeto demonstra conceitos fundamentais de **Collections, Generics e Sorti
 
 ## 🚀 Como rodar
 
+```bash
+./gradlew run
+```
+
 
