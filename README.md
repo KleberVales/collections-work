@@ -12,4 +12,6 @@ Este projeto demonstra conceitos fundamentais de **Collections, Generics e Sorti
 ./gradlew run
 ```
 
+## 📂 Estrutura
+
 
