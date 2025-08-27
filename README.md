@@ -14,4 +14,9 @@ Este projeto demonstra conceitos fundamentais de **Collections, Generics e Sorti
 
 ## 📂 Estrutura
 
+- GenericBox → exemplo de generics
+- Student → modelo com ordenação natural
+- StudentManager → manipulação de lista de estudantes
+- CollectionExample → classe principal
+
 
