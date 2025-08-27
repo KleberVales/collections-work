@@ -6,3 +6,6 @@ Este projeto demonstra conceitos fundamentais de **Collections, Generics e Sorti
 - Armazenamento de objetos em **Collections** (`ArrayList`)
 - **Ordenação** de dados com `Comparable`, `Comparator` e `Collections.sort()`
 
+## 🚀 Como rodar
+
+
